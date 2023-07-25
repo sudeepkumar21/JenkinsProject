@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-25T15:46:12 IST" name="Suite" finished-at="2023-07-25T15:46:17 IST" duration-ms="4770">
+    <groups>
+    </groups>
+    <test started-at="2023-07-25T15:46:12 IST" name="Test" finished-at="2023-07-25T15:46:17 IST" duration-ms="4770">
+      <class name="Nagarro.ApiTesting.reqPost">
+        <test-method signature="postRq()[pri:0, instance:Nagarro.ApiTesting.reqPost@27ff5d15]" started-at="2023-07-25T15:46:12 IST" name="postRq" finished-at="2023-07-25T15:46:14 IST" duration-ms="2044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRq -->
+        <test-method signature="putRq()[pri:0, instance:Nagarro.ApiTesting.reqPost@27ff5d15]" started-at="2023-07-25T15:46:14 IST" name="putRq" finished-at="2023-07-25T15:46:15 IST" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRq -->
+      </class> <!-- Nagarro.ApiTesting.reqPost -->
+      <class name="Nagarro.ApiTesting.booker">
+        <test-method signature="token()[pri:0, instance:Nagarro.ApiTesting.booker@37654521]" started-at="2023-07-25T15:46:15 IST" name="token" finished-at="2023-07-25T15:46:17 IST" duration-ms="1625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- token -->
+      </class> <!-- Nagarro.ApiTesting.booker -->
+      <class name="Nagarro.ApiTesting.reqRes">
+        <test-method signature="getRq()[pri:0, instance:Nagarro.ApiTesting.reqRes@2df9b86]" started-at="2023-07-25T15:46:15 IST" name="getRq" finished-at="2023-07-25T15:46:15 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRq -->
+      </class> <!-- Nagarro.ApiTesting.reqRes -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
